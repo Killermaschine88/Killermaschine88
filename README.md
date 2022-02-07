@@ -6,8 +6,8 @@
 
 ## Socials
 <p align="left">
-  <a href="https://discord.gg/Ca6XpTRQaR" target="_blank"><img alt="Discord Server" src="https://img.shields.io/badge/-Discord-4e5d94?style=flat-square&logo=Discord&logoColor=white"></a>
-  <a href="https://discord.gg/Ca6XpTRQaR" target="_blank"><img alt="Discord Account" src="https://img.shields.io/badge/-Discord-4e5d94?style=flat-square&logo=Discord&logoColor=white"></a>
+  <a href="https://discord.gg/Ca6XpTRQaR" target="_blank"><img alt="Discord Server" src="https://img.shields.io/badge/-Discord Server-4e5d94?style=flat-square&logo=Discord&logoColor=white"></a>
+  <a href="https://discord.gg/Ca6XpTRQaR" target="_blank"><img alt="Discord Account" src="https://img.shields.io/badge/-Discord Account-4e5d94?style=flat-square&logo=Discord&logoColor=white"></a>
 </p>
 
 ## Skills
