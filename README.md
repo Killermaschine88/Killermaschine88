@@ -7,7 +7,7 @@
 ## Socials
 <p align="left">
   <a href="https://discord.gg/Ca6XpTRQaR" target="_blank"><img alt="Server" src="https://img.shields.io/badge/-Server-4e5d94?style=flat-square&logo=Discord&logoColor=white"></a>
-  <a href="https://discord.com/users/570267487393021969" target="_blank"><img alt="Baltraz#4874" src="https://img.shields.io/badge/-Baltraz\#4874-4e5d94?style=flat-square&logo=Discord&logoColor=white"></a>
+  <a href="https://discord.com/users/570267487393021969" target="_blank"><img alt="Baltraz" src="https://img.shields.io/badge/-Baltraz\#4874-4e5d94?style=flat-square&logo=Discord&logoColor=white"></a>
 </p>
 
 ## Skills
