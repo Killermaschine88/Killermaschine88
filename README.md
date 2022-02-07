@@ -21,4 +21,4 @@
 ## Stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Killermaschine88&count_private=true&show_icons=true&theme=dracula)
-![Rick Staa's Language stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=Killermaschine88&layout=compact&langs_count=t&hide_border=1&role=OWNER,COLLABORATOR)
+![Baltraz Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ElectroPerf&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3)
