@@ -12,6 +12,7 @@
 
 ## Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%23F7DF1C?style=flat-square&logo=mongodb&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
 ## Misc
 ![widget](https://discord.c99.nl/widget/theme-3/570267487393021969.png) 
