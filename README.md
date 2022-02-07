@@ -6,16 +6,16 @@
 
 ## Socials
 <p align="left">
-    <a href="https://github.com/Killermaschine88" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Killermaschine88-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://github.com/Killermaschine88" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Baltraz-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 </p>
+
+## Skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
 ## Misc
 ![widget](https://discord.c99.nl/widget/theme-3/570267487393021969.png) 
 
 ![](https://komarev.com/ghpvc/?username=Killermaschine88)
-
-## Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
 ## Stats
 
