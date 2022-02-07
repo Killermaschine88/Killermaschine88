@@ -1,6 +1,6 @@
 ## Hey there 👋! I'm Baltraz  
   
-#### currently working on:
+#### Currently working on:
 
 - Nothing currently
 
