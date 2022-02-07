@@ -7,6 +7,7 @@
 
 ## Misc
 ![widget](https://discord.c99.nl/widget/theme-5/570267487393021969.png) 
+
 ![](https://komarev.com/ghpvc/?username=Killermaschine88)
 
 ## Skills
