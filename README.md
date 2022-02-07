@@ -5,10 +5,7 @@
 - Nothing currently
 
 ## Socials
-<a href="https://discord.gg/Ca6XpTRQaR">
-  <img align="left" alt="Sky Bot Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-
+ - soon™
 
 ## Misc
 ![widget](https://discord.c99.nl/widget/theme-3/570267487393021969.png) 
