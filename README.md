@@ -5,7 +5,9 @@
 - Nothing currently
 
 ## Socials
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+<p align="center">
+    <a href="https://github.com/Killermaschine88" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@alwinw-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+</p>
 
 ## Misc
 ![widget](https://discord.c99.nl/widget/theme-3/570267487393021969.png) 
