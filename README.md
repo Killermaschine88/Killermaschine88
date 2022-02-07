@@ -20,5 +20,5 @@
 
 ## Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Killermaschine88&count_private=true&show_icons=true&theme=dracula)
-![Baltraz Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ElectroPerf&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Killermaschine88&show_icons=true&theme=tokyonight&line_height=27&hide_rank=false&border_radius=10&line_height=28&hide_border=true&count_private=true&text_color=a3a3a3)
+![Baltraz Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Killermaschine88&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3)
