@@ -5,7 +5,7 @@
 - Nothing currently
 
 ## Socials
- - soon™
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 ## Misc
 ![widget](https://discord.c99.nl/widget/theme-3/570267487393021969.png) 
