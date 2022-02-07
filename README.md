@@ -6,7 +6,7 @@
 
 ## Socials
 <p align="left">
-    <a href="https://github.com/Killermaschine88" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@alwinw-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://github.com/Killermaschine88" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Killermaschine88-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 </p>
 
 ## Misc
