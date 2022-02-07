@@ -6,8 +6,8 @@
 
 ## Socials
 <p align="left">
-    <a href="https://github.com/Killermaschine88" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Baltraz-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-  <a href="https://discord.gg/Ca6XpTRQaR" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-@Discord-4e5d94?style=flat-square&logo=Discord&logoColor=white"></a>
+    <a href="https://github.com/Killermaschine88" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-Baltraz-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+  <a href="https://discord.gg/Ca6XpTRQaR" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-Discord-4e5d94?style=flat-square&logo=Discord&logoColor=white"></a>
 </p>
 
 ## Skills
