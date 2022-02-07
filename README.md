@@ -2,7 +2,7 @@
   
 ## Currently working on:
 
-- Nothing currently
+- Nothing
 
 ## Socials
 <p align="left">
