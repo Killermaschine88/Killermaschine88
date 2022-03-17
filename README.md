@@ -2,7 +2,7 @@
   
 ## Currently working on
 
-- Nothing
+- Personal Bot with Classic Games like TicTacToe
 
 ## Socials
 <p align="left">
