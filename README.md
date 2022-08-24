@@ -7,7 +7,7 @@
 ## Socials
 <p align="left">
   <a href="https://discord.gg/Ca6XpTRQaR" target="_blank"><img alt="Server" src="https://img.shields.io/badge/-Server-4e5d94?style=for-the-badge&logo=Discord&logoColor=white"></a>
-  <a href="https://discord.com/users/570267487393021969" target="_blank"><img alt="Baltraz" src="https://img.shields.io/badge/-Account-4e5d94?style=for-the-badge&logo=Discord&logoColor=white"></a>
+  <a href="https://discord.com/users/551951090678104064" target="_blank"><img alt="Baltraz" src="https://img.shields.io/badge/-Account-4e5d94?style=for-the-badge&logo=Discord&logoColor=white"></a>
 </p>
 
 ## Skills
@@ -16,7 +16,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Misc
-![widget](https://discord.c99.nl/widget/theme-3/570267487393021969.png) 
+![widget](https://discord.c99.nl/widget/theme-3/551951090678104064.png) 
 
 ![](https://komarev.com/ghpvc/?username=Killermaschine88)
 
