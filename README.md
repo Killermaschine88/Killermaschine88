@@ -16,7 +16,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Misc
-![widget](https://discord.c99.nl/widget/theme-3/551951090678104064.png) 
+![widget](https://discord.c99.nl/widget/theme-3/570267487393021969.png) 
 
 ![](https://komarev.com/ghpvc/?username=Killermaschine88)
 
