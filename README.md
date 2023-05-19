@@ -2,7 +2,7 @@
   
 ## Currently working on
 
-- Personal Bot with Classic Games like TicTacToe
+- BaltrazAddons, a ChatTriggers Module to help with Hxpixel Skyblock
 
 ## Socials
 <p align="left">
